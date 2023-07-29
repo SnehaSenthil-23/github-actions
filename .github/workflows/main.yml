@@ -1,5 +1,5 @@
 name: git-workflow
-on: push
+on: workflow_dispatch
 jobs: 
   write-hello:
     runs-on: ubuntu-latest
